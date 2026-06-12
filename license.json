@@ -1,0 +1,12 @@
+{
+  "product": "HEC1-WR",
+  "updated": "2026-06-12",
+  "message": "",
+  "keys": {
+    "87360e0b51f1e6cfa53f75a4f163a2124d801c959780a7cbb396adc5ea6948d5": {
+      "label": "v1.001-beta common",
+      "enabled": true,
+      "expires": "2026-10-31"
+    }
+  }
+}
